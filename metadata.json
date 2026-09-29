@@ -1,0 +1,8 @@
+{
+  "name": "SAPS Digital Case Docket Management & Accountability System",
+  "description": "Digital Police Case Docket Management and Accountability System (DPCDMAS) for SAPS case lifecycle tracking, victim intake, legal compliance (National Instruction 3 of 2011), evidence chain of custody, two-person closure reviews, and statutory oversight.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
